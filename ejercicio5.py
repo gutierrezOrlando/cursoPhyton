@@ -15,3 +15,5 @@ elif opt == "4":
     print("La división es: " + str(d))
 else: 
     print("No fue posible realizar operación")
+    print(str(a)+" ? "+str(b))
+    print("Adios!")
